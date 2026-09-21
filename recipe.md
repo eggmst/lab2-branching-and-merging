@@ -13,26 +13,25 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1 cup milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
-- [CAKE FLAVOUR]
-- [SPECIAL CAKE INGREDIENT]
+- T-virus
 
 ## Filling
 
-- [FILLING]
-- [FILLING EXTRAS]
+- Strawberry
+- G-virus
 
 ## Frosting
 
 - 1 cup unsalted butter, softened
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
-- [FROSTING FLAVOUR]
-- [FROSTING EXTRAS]
+- Bioweaponry
+- Zach Cregger
 
 ## Decoration
 
-- [DECORATION]
-- [FINISHING TOUCH]
+- Leon S. Kennedy
+- 9mm Handgun Ammunition
 
 ## Instructions
 
@@ -42,7 +41,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 3. Add the eggs, milk, vegetable oil, and vanilla. Mix until the batter is smooth.
 
-4. Add [CAKE FLAVOUR] and [SPECIAL CAKE INGREDIENT]. Mix until evenly combined.
+4. Add T-virus. Mix until evenly combined.
 
 5. Divide the batter evenly among the three prepared pans.
 
@@ -50,9 +49,9 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 7. Let the cakes cool in their pans for 10 minutes, then transfer them to a wire rack to cool completely.
 
-8. Prepare the filling by combining [FILLING] with [FILLING EXTRAS].
+8. Prepare the filling by combining strawberry with G-virus.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by [FROSTING FLAVOUR].
+9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by bioweaponry.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
 
@@ -60,6 +59,6 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 12. Cover the top and sides of the cake with frosting.
 
-13. Decorate the cake with [DECORATION].
+13. Decorate the cake with Leon S. Kennedy.
 
-14. Add [FINISHING TOUCH] just before serving.
+14. Add 9mm Handgun Ammunition just before serving.
